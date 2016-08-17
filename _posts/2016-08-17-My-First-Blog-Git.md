@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devansh Tiwari"
+title: "My First Post"
 date: 2016-08-17
 ---
 
