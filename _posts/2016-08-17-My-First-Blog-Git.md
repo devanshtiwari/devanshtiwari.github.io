@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Devansh Tiwari"
-date: 2016-08-11
+date: 2016-08-17
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can 
